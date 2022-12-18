@@ -1,0 +1,30 @@
+main{
+    width: 400px;
+    border: 1px solid blue;
+    box-shadow: 6px 6px 1px 0px lightblue;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 40%;
+}
+.img{
+    width: 405px;
+    margin-right:2%;
+}
+span{
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    text-decoration: underline lightblue;
+}
+h2{
+    text-align: center;
+    text-decoration: underline lightblue;
+}
+p{
+    font-size: 15px;
+}
+li{
+    font-size: 15px;
+    font-weight: 500;
+}
